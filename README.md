@@ -19,7 +19,7 @@ ${Password}      test123
 ${SiteUrl}        http://crossbrowsertesting.github.io/login-form.html
 ${Delay}         5s 
 ${RemoteUrl}   http://${CBTUser}:${CBTAuth}@hub.crossbrowsertesting.com:80/wd/hub
-${Browser}  Windows
+${Browser}  Chrome
 ${Version}  77
 ${Platform}  Windows 10
 ${Resolution}  1366x768
